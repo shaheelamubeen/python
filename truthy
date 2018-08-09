@@ -1,0 +1,49 @@
+number = 6
+>>> if number !=5:
+...     print("this will work")
+... 
+this will work
+>>> number = 5
+>>> if number !=5:
+...     print("this will work")
+... 
+>>> 
+>>> 
+>>> 
+>>> number=6
+>>> if number!=6:
+...     print("this is ri8")
+... 
+>>> 
+>>> aliens=false
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'false' is not defined
+>>> aliens=none
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'none' is not defined
+>>> aliens = none
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'none' is not defined
+>>> aliens=None
+>>> if aliens:
+...     print("hiiii")
+... 
+>>> aliens=true
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'true' is not defined
+>>> aliens=True
+>>> if aliens:
+...     print("hiiii")
+... 
+hiiii
+>>> aliens= True
+>>> aliens= False
+>>> if not aliens:
+...     print("working")
+... 
+working
+>>> 

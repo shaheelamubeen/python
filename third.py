@@ -37,3 +37,10 @@ Traceback (most recent call last):
 KeyError: 1
 >>>   i am working on python
 shaheela
+animlas={
+    "type":"dog",
+    "breed":"pug",
+    "color":"white"
+}
+
+}
