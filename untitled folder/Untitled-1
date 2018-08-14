@@ -1,0 +1,29 @@
+user = "aakash"
+memlist=["smiley","aakash","manisha","risha"]
+if user==memlist:
+     print("welcome")
+ else:
+     print("sorry not allowed")
+ 
+sorry not allowed
+
+def 
+
+i=5
+for i<10:
+    print("i")
+    i += 1
+
+    
+ 
+userarray = ["aakash","nancy"]
+def validate(name):  
+    for a in userarray:
+        if a==name:
+            print("welcome")
+        else:
+            userarray.append(name)
+            for a  in userarray:
+                print(a)
+            
+
